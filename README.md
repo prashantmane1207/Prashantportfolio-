@@ -46,6 +46,4 @@ Portfolio/
 
 This portfolio website was developed to demonstrate my frontend development skills and present my professional profile, projects, and technical expertise.
 
-## License
 
-This project is open for learning and personal use.
